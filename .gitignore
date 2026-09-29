@@ -41,3 +41,4 @@ sh/ensure-uids.sh
 # IDE specifics
 .vs/
 .vscode/
+/.idea
